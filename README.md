@@ -1,2 +1,0 @@
-# synapes-lesson
-hello
